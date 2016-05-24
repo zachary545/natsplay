@@ -2,8 +2,7 @@
 #####TEACH - WRITE - STAGE
 
 [https://zachary545.github.io/natsplay/](https://zachary545.github.io/natsplay/ "Nat's Plays")
-![alt text][image]
-[image]: https://github.com/zachary545/natsplay/blob/gh-pages/images/background2.png "Nat's Plays"
+[<img src="https://github.com/zachary545/natsplay/blob/gh-pages/images/background2.png">](https://zachary545.github.io/natsplay/)
 
 ##Purpose
 The main reason why I started writing plays was so that I would have access to plays that my students could stage without having to go through the arduous process of requesting for copyright or paying for royalties. I completely respect the need to protect one's work, but it is difficult when working on a tight budget and also taking into account the need to appeal to a more modern audience, since plays that are no longer contained by copyright are older. So, if you like my plays, I would love for you to stage it. You just need to send in a request and I will email it you. Also, if you have written plays that you think would be suitable for students to stage, I would love to read it and give my students a chance to perform it. Theatre is a medium that benefits from sharing, so let's share and benefit together :)
